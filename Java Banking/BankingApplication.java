@@ -222,7 +222,7 @@ public class BankingApplication {
         // Create Savings Account
         SavingsAccount savings = new SavingsAccount(
             "SA1001",
-            "Rahul",
+            "Santhosh",
             10000
         );
 
@@ -248,7 +248,7 @@ public class BankingApplication {
         // Create Current Account
         CurrentAccount current = new CurrentAccount(
             "CA2001",
-            "Priya",
+            "Lingeshwaran",
             15000
         );
 
